@@ -1,0 +1,4 @@
+interface:
+  display_name: "高跟鞋热点爆款广告"
+  short_description: "把真实热点、八大元素与说人话结合，交付五条高跟鞋千川脚本和可选Seedance提示词"
+  default_prompt: "使用 $heels-hotspot-ads，围绕我们的四款主推高跟鞋，找近期热点并生成五条可拍的创意广告，台词说人话。"
